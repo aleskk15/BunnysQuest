@@ -9,7 +9,7 @@ Follow the story of a brave bunny on a quest to rescue her sister from a den of 
 1.  Install Pygame: `pip install pygame`
 2.  Run the game: `python main.py`
 
-## How to play 
+## Game controls
 
 1. Use the arrow keys to move around the screen
 2. Use the space bar to shoot in the boss fight to defeat the evil fox
